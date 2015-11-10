@@ -1,4 +1,4 @@
-package com.allaboutee.httphelper_teste;
+package com.allaboutee.httphelper;
 
 import java.util.List;
 

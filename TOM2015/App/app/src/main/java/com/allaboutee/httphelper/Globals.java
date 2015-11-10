@@ -1,4 +1,4 @@
-package com.allaboutee.httphelper_teste;
+package com.allaboutee.httphelper;
 
 /**
  * Created by bela_ on 03-Nov-15.

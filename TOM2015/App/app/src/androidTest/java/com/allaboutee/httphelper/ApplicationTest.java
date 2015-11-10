@@ -1,4 +1,4 @@
-package com.allaboutee.httphelper_teste;
+package com.allaboutee.httphelper;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
