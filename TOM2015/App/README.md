@@ -1,2 +1,3 @@
-# Android-App-HTTP-Helper
-An Android app to help with Internet of Things (IoT) devices. Let's you HTTP post to an IP address.
+# Aplicativo utilizado no TOM 2015
+
+O aplicativo foi feito com base em : https://github.com/AllAboutEE/Android-App-HTTP-Helper
