@@ -38,7 +38,13 @@ import java.net.URISyntaxException;
 import java.util.List;
 import java.util.ArrayList;
 
-
+/**************************************************
+ * Este aplicativo está funcional somente para dois ESP8266.
+ * Para mudar o IP de comunicação do app com os esps vá em AccessActivity.java
+ * e troque os IPs.
+ * Somente este script e o AccessActivity são funcionais!
+ * Os outros estão em fase de teste.
+ **************************************************/
 
 public class ListESP extends Activity implements View.OnClickListener {
 

@@ -7,7 +7,7 @@
         android:orientation="vertical">
 
 
-        <TextView
+        <!--TextView
             android:id="@+id/IP_address"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -62,9 +62,9 @@
                 android:textColor="#000"
                 android:textSize="14dp"
                 android:textStyle="bold" />
-        </LinearLayout>
+        </LinearLayout-->
 
-        <Button
+        <!--Button
             android:id="@+id/button_find"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -74,7 +74,7 @@
             android:id="@+id/button_config"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/button_connect" />
+            android:text="@string/button_connect" /-->
 
         <Button
             android:id="@+id/button_access"
@@ -82,11 +82,11 @@
             android:layout_height="wrap_content"
             android:text="@string/button_access" />
 
-        <Button
+        <!--Button
             android:id="@+id/button_teste"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Teste" />
+            android:text="Teste" /-->
 
     </LinearLayout>
 
